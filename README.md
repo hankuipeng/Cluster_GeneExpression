@@ -3,6 +3,7 @@ An implementation of finding clusters from gene expression data using Evolutiona
 
 1. What is this program for?
 This program is an implementation of finding clusters from gene expression data using Evolutionary Computation method in python. 
+
 It has the input of expression matrix and the theta value, as a threshold for the mean squared residue. 
 Then it returns either a cluster with mean squared residue lower than the threshold. 
 The returned cluster is stored in a list called Results, and function is called again. When the end condition is met, the list Results is returned.
