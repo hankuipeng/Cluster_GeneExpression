@@ -10,8 +10,8 @@ The returned cluster is stored in a list called Results, and function is called 
 
 2. Parameters the program used:
 	Population size: 200
-	Number of generations: 100
-	Weight for conditions: 10
+Number of generations: 100
+Weight for conditions: 10
 	Weight for genes: 1
 	Crossover probability: 0.85
 	Mutation probability: 0.2
