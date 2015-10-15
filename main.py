@@ -1,4 +1,4 @@
-__author__ = 'JESSIE'
+__ttttt__ = 'JESSIE'
 from Fun_Package.Data_Load_Encode import *
 from Fun_Package.GA import *
 
