@@ -1,7 +1,11 @@
+<<<<<<< HEAD
 __ssss__ = 'JESSIE'
+=======
+__ttttt__ = 'JESSIE'
+>>>>>>> branch_b
 from Fun_Package.Data_Load_Encode import *
 from Fun_Package.GA import *
-
+# add a line
 # load the Expression Matrix EM
 Data_File = Load_Data()
 #print Data_File
